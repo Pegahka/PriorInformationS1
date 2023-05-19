@@ -6,6 +6,8 @@ P. Kassraian, F. Rabe, N. Enz, M. Maathuis, N. Wenderoth
 
 ![alt text](https://github.com/Pegahka/PriorInformationS1/blob/main/Figures/Fig1_ms.jpeg)
 
+The data and code for Figure 1B (staircase results from example participant) can be found under Code/Staircase_Code_Data
+
 # Code and Data Figure 2
 
 # Code and Data Figure 3
