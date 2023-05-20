@@ -9,7 +9,8 @@ Below we provide figure-by-figure references to code and data
 <img src="https://github.com/Pegahka/PriorInformationS1/blob/main/Figures/Fig1_ms.jpeg" width="700">
 
 
-The data and code for Figure 1B (staircase results from example participant) can be found under Code/Staircase_Code_Data
+The data and code for Figure 1B (staircase results from example participant) can be found under:
+- Code/Staircase_Code_Data
 
 # Code and Data Figure 2
 
