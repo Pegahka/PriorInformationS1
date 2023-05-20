@@ -12,12 +12,12 @@ The data and code for Figure 1B (staircase results from example participant) can
 
 # Code and Data Figure 2
 
-![alt text](https://github.com/Pegahka/PriorInformationS1/blob/main/Figures/Fig2.jpeg)
+![alt text](https://github.com/Pegahka/PriorInformationS1/blob/main/Figures/Fig2.jpg)
 
 
 # Code and Data Figure 3
 
-![alt text](https://github.com/Pegahka/PriorInformationS1/blob/main/Figures/Fig3.jpeg)
+![alt text](https://github.com/Pegahka/PriorInformationS1/blob/main/Figures/Fig3.jpg)
 
 
 # Code and Data Figure 4
