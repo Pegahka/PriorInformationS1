@@ -22,7 +22,7 @@ The data and code for Figure 1B (staircase results from example participant) can
 
 # Code and Data Figure 4
 
-<img src="https://github.com/Pegahka/PriorInformationS1/blob/main/Figures/Fig3.jpg" width="200">
+<img src="https://github.com/Pegahka/PriorInformationS1/blob/main/Figures/Fig3.jpg" width="400">
 
 
 # Code and Data Figure 5
