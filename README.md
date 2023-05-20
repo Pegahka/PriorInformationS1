@@ -1,5 +1,6 @@
 # PriorInformationS1
 Data and code for the paper **"Prior information enhances tactile representation in primary somatosensory cortex"**; 
+
 P. Kassraian, F. Rabe, N. Enz, M. Maathuis, N. Wenderoth
 
 Below we provide figure-by-figure references to code and data
