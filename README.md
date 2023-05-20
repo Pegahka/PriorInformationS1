@@ -4,7 +4,7 @@ P. Kassraian, F. Rabe, N. Enz, M. Maathuis, N. Wenderoth
 
 Below we provide figure-by-figure references to code and data
 
-# Figure 1
+# Code and Data Figure 1
 
 ![alt text](https://github.com/Pegahka/PriorInformationS1/blob/main/Figures/Fig1_ms.jpeg)
 
