@@ -6,23 +6,24 @@ Below we provide figure-by-figure references to code and data
 
 # Code and Data Figure 1
 
-![alt text](https://github.com/Pegahka/PriorInformationS1/blob/main/Figures/Fig1_ms.jpeg)
+<img src="https://github.com/Pegahka/PriorInformationS1/blob/main/Figures/Fig1_ms.jpeg" width="700">
+
 
 The data and code for Figure 1B (staircase results from example participant) can be found under Code/Staircase_Code_Data
 
 # Code and Data Figure 2
 
-![alt text](https://github.com/Pegahka/PriorInformationS1/blob/main/Figures/Fig2.jpg)
+<img src="https://github.com/Pegahka/PriorInformationS1/blob/main/Figures/Fig2.jpg" width="700">
 
 
 # Code and Data Figure 3
 
-![alt text](https://github.com/Pegahka/PriorInformationS1/blob/main/Figures/Fig3.jpg)
+<img src="https://github.com/Pegahka/PriorInformationS1/blob/main/Figures/Fig3.jpg" width="700">
+
 
 
 # Code and Data Figure 4
 
-<img src="https://github.com/Pegahka/PriorInformationS1/blob/main/Figures/Fig3.jpg" width="700">
 
 
 # Code and Data Figure 5
