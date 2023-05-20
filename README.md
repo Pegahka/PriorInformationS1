@@ -16,6 +16,9 @@ The data and code for Figure 1B (staircase results from example participant) can
 
 <img src="https://github.com/Pegahka/PriorInformationS1/blob/main/Figures/Fig2.jpg" width="700">
 
+- Panel A:
+- Panel B:
+- Panel C:
 
 ## Code and Data Figure 3
 
